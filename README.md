@@ -12,7 +12,7 @@ Instalamos npm en el proyecto
 colocamos lo siguiente 
 
 ```bash
-"build-sass": " node-ass –include-path scss ./scss/style.scss ./css/style.css -w"
+"build-sass": "node-ass --include-path scss ./scss/style.scss ./css/style.css -w"
 ```
 
 luego creamos las carpetas scss y css e instalamos lo siguiente
